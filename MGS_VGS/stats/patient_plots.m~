@@ -69,7 +69,7 @@ plot(col2,p4,'b')
 plot(col2,p5,'r')
 plot(col2,p6,'b')
 plot(col2,p8,'r')
-axis([.5,7.5,.5,1.1]) 
+axis([.5,2.5,.5,1.1]) 
 
 % % FINAL ERROR
 % 
@@ -100,7 +100,7 @@ plot(col2,p4,'b')
 plot(col2,p5,'r')
 plot(col2,p6,'b')
 plot(col2,p8,'r')
-axis([.5,7.5,.0,4])
+axis([.5,2.5,.0,4])
 
 % % Final GAIN
 
@@ -131,7 +131,7 @@ plot(col2,p4,'b')
 plot(col2,p5,'r')
 plot(col2,p6,'b')
 plot(col2,p8,'r')
-axis([.5,7.5,.5,1.1]) 
+axis([.5,2.5,.5,1.1]) 
 
 % % SRT
 
@@ -162,7 +162,7 @@ plot(col2,p4,'b')
 plot(col2,p5,'r')
 plot(col2,p6,'b')
 plot(col2,p8,'r')
-axis([.5,7.5,0,500]) 
+axis([.5,2.5,0,500]) 
 
 % % PRIMARY GAIN VARIABILITY
 
